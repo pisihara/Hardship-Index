@@ -1,0 +1,53 @@
+NAME:  Exploring the Chicago Hardship Index in an REU, Capstone, Internship, and Intro to Stats Course
+Data:  Hardship Index Data and Homicide Data 
+TYPE:  Complete Data for a Small Population  
+
+SIZE:  77 observations, 16 variables
+
+DESCRIPTIVE ABSTRACT:
+The paper contains the results of an analysis of the hardship index of Chicago’s 77 community areas. The data set contains data provided by the UIC Great Cities Institute.  Work on this data by a team of 2 professors, 10 students, and 1 urban studies staff member exemplifies 4 recommendations: make sure students understand the historical factors which have led to current community area hardship; probe beneath scatterplots showing improvement of raw indicators; compare normalization vs. standardization of raw indicators; and emphasize that a single index cannot capture all dimensions of hardship. 
+
+SOURCES: 
+UIC Great Cities Institute (Hardship Index Data)
+Chicago Data Portal (Homicide Data)
+
+VARIABLE DESCRIPTIONS:
+
+Community areas 		Columns 1-2 
+2014 Hardship Index data  	Columns 3-9  
+2017 Hardship Index data	Columns 10-16
+Homicide data		        Columns 17-18
+
+
+SPECIAL NOTES:
+
+Abbreviations:
+HI	Hardship Index
+UNEMP	%Unemployed over age 16
+NOHS	%No High School Diploma over age 25
+DEP	%Dependent Population (under 18, over 64)
+HOUS	%Overcrowded Housing (>1 person per room)
+INC	Per capita income (in US dollars)
+
+
+STORY BEHIND THE DATA:
+Data was given to us by Joel Hammernick, director of Sunshine Gospel Ministries, an organization focused on violent crime reduction in disadvantaged Chicago neighborhoods.
+
+PEDAGOGICAL NOTES:
+
+This dataset contains hardship statistics for 77 Chicago community areas for the periods 2010-2014 and 2013-2017 represented by 6 indicator variables.  Homicide counts for each community area in 2014 and 2017 was added to the hardship data. The paper gives examples of student analysis of this data, including an R-lab at an intro to stats level.
+
+
+REFERENCES:
+Great Cities Institute (2017) Fact sheet 2: Chicago community area economic hardship index. 
+Great Cities Institute (2019) Fact sheet 2: Chicago community area economic hardship index.  
+
+SUBMITTED BY:
+
+Paul Isihara
+Department of Mathematics and Computer Science
+Wheaton College
+Wheaton, IL 60187
+(630)752-5870
+paul.isihara@wheaton.edu
+
